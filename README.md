@@ -49,4 +49,4 @@ Akzeptiere Farbcodes (z. B. #FF0000 für Rot) als Eingabe.
 Beiträge und Vorschläge sind willkommen! Forke das Repository, implementiere deine Ideen und erstelle einen Pull Request.
 
 ## 📜 Lizenz
-Dieses Projekt steht nicht unter Lizenz.
+Dieses Projekt steht unter der MIT-Lizenz. Siehe die LICENSE Datei für weitere Details.
