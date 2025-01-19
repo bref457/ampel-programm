@@ -36,17 +36,17 @@ Das Projekt demonstriert die Nutzung von HTML, JavaScript und grundlegender Inte
    ```bash
    git clone https://github.com/bref457/ampel-programm
    
-Öffne die Datei index.html in deinem bevorzugten Browser.
+2. Öffne die Datei index.html in deinem bevorzugten Browser.
 
-Gib eine Farbe ein und klicke auf den Button „Überprüfen“, um die passende Anweisung zu erhalten.
+3. Gib eine Farbe ein und klicke auf den Button „Überprüfen“, um die passende Anweisung zu erhalten.
 
-🌟 Erweiterungsideen
+## 🌟 Erweiterungsideen
 Füge CSS hinzu, um die Ampel visuell darzustellen.
 Implementiere einen Timer, um die Ampelphasen automatisch zu wechseln.
 Akzeptiere Farbcodes (z. B. #FF0000 für Rot) als Eingabe.
 
-🤝 Mitwirken
+## 🤝 Mitwirken
 Beiträge und Vorschläge sind willkommen! Forke das Repository, implementiere deine Ideen und erstelle einen Pull Request.
 
-📜 Lizenz
+## 📜 Lizenz
 Dieses Projekt steht nicht unter Lizenz.
